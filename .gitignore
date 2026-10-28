@@ -1,0 +1,19 @@
+# macOS
+.DS_Store
+
+# Archives
+*.zip
+
+# Editors
+.vscode/
+.idea/
+*.swp
+
+# Dependencies / build output
+node_modules/
+dist/
+
+# Logs and env
+*.log
+.env
+.env.*
